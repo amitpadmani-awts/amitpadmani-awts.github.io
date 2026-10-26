@@ -11,7 +11,7 @@
       "controller": "did:web:amitpadmani-awts.github.io",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "10EqIFcC7WadZQEHCCCxwHjicRHfRBD2504e7-0e1NcH9BYwO7UTYSIKbndVwS6pkPr279E8m-79N8Wq2NXPE3h-6z-10HqQIQG-FKKvyut0DAPhfhX6i_cvt9bNS6MybGwe12_mKUj2kcDmF8aImNttlaYLRLE6s90w0VgQ6VkBgNLz35fRjBgTADFfe21gaFYji7wRkObNs5BOVj_zF7gr6S7QxUh37VM3PAi5ywC9Zmh2nBGsS-dZQxGfs6qFrVcqtA3NRAnIgj2sxtI97Y64XJsXAjAqyzGTXp26dwcGGTL3Yo8T0p9IAK5AX5r9-TzxXmObc6e5dBqyFcelCw",
+        "n": "wUQ1Vd3X1cEjKRUToqaDFoS1Tbkq9clW2o0-NywCsSlDay-RI8x4UaZgSNkLhKn13hDouwB_JVNMQAf4AqWqItSu4iihQHet60BzuTLCW7-MRfbX4VHLyswxZpLVNSQku6js34I7pfpJ03pDKIy0WPd8ZGKNzkK6oNGzhMuzPdpJpC2niftV0WvnKUaVTY_V_bFehtQQTxY1W6Dyy5LLrL6vZxqx5dWLbb3XNX76QiisQ9Nca_Cp-l7RVEi3ieEBlBCLRRf_JFcWzGF5l9SiNkx2turOiCuAHdydAiUuMF3BpO0ceqdqpfm1hsSkrV3ZDXHzYxD15EwUg_xcuMaVVw",
         "e": "AQAB",
         "alg": "RS256"
       }

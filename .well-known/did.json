@@ -1,0 +1,29 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:amitpadmani-awts.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:amitpadmani-awts.github.io#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:amitpadmani-awts.github.io",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "uAwqO3VLgSL7UpYNLtDrZRVsKY_-9_-i5hwTH8PW87vyfZ_HqdqjNarwx9XFqOKswOBG0WnBLvxW6RlBlLBi0qrKDnoVS_RUGDfeACLUG6Ub_gVYUHMwwX87-GWnJ9cBZ9X15VNqUlLbqFGGfjSU_rt5R73myvcWfoZPpwVOeBtPGme5LYGmBL35Ss72Dv44a_A52c1-1JsSn8NVGmiIe86KjraUEPQdF7K8mKCuBMCBUHkaCLk0TnsV_o7SuR-8dAWJyxj_E_42T8vrJY3TkREHzQVUuIiIDT2Fz07IDiOesyf8OEu2Yz-lS1BAqd-qeQGmQAER1nSVr7eLdJIgnw",
+        "e": "AQAB",
+        "alg": "RS256"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:amitpadmani-awts.github.io#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:amitpadmani-awts.github.io#key-1"
+  ],
+  "capabilityInvocation": [
+    "did:web:amitpadmani-awts.github.io#key-1"
+  ]
+}
